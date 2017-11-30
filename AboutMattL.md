@@ -1,1 +1,1 @@
-About
+My name is matthew, I live at Choate in Wallingford. I sit next to canaan and faisal in class.
