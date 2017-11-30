@@ -1,0 +1,1 @@
+My name is Canaan Case and I'm a 17 year old senior at Choate. I was born in Aspen, Colorado and have lived there ever since. 
