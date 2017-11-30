@@ -9,3 +9,4 @@
 1. Item 3
    1. Item 3a
    1. Item 3b
+<span style="color:blue">some *This is Blue italic.* text</span>
