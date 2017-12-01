@@ -19,8 +19,7 @@ Person of Interest|London
 Last Week Tonight|Chicago, IL
 Breaking Bad|New York
 
-@rkantamneni20:
-What's your favorite TV show?
+
 
 
 
