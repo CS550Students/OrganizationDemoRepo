@@ -8,12 +8,12 @@ Michael (as Scarn) from *The Office*:
 > It's gonna take a lot more than a bullet to the brain, 
 > lungs, heart, back and balls to kill Michael Scarn.
 
-#Connie's favorite shows.
+# Connie's favorite shows:
 
 * The Office
 * The Crown
 * Stranger Things
-	* Gilmore Girls
-	* Riverdale
-	* Series of Unfortunate Events
-	* Modern
+* Gilmore Girls
+* Riverdale
+* Series of Unfortunate Events
+* Family Modern
