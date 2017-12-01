@@ -4,7 +4,7 @@
 "You couldn't handle my undivided attention." - Dwight Schrute
 
 
-__**Michaels** favorite TV Shows__
+__**Michael's** favorite TV Shows__
 1. The Office
 2. Friends
 3. Parks and Rec
@@ -12,10 +12,9 @@ __**Michaels** favorite TV Shows__
 5. Stranger Things
 
 
-![GitHub logo](/images/logo.png)
-Format: ![Alt Text](http://www.dreamworks.com/kungfupanda/uk/images/uploads/games/_1095/KFP3_Pos_Jumping_Adventure_lg.jpg)
+![Alt Text](http://www.dreamworks.com/kungfupanda/uk/images/uploads/games/_1095/KFP3_Pos_Jumping_Adventure_lg.jpg)
 
-/play trombone
+/play trololo
 :bullettrain_side:
 :shoe:
 :hourglass:
