@@ -1,4 +1,4 @@
-#THIS IS CONNIE XIAO, A PERSON WHO IS CURRENTLY ALIVE
+__*THIS IS CONNIE XIAO*__
 
 
 "You couldn't handle my undivided attention." - Dwight Schrute
