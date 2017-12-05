@@ -35,8 +35,7 @@ Pizza|Clams
 Chocolate|Cherry Tomatoes
 Caramel Ice Cream|Lambchops
 
-
-### To Do List
+__To Do List__
 -[x] Finish this assignment
 -[x] Go to bed
 -[ ] Wake up
